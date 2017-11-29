@@ -1,0 +1,24 @@
+{
+  "name": "base64_util",
+  "version": "1.0.0",
+  "description": "Base64 helper funtions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranchiendang/base64_util.git"
+  },
+  "keywords": [
+    "base64",
+    "encode",
+    "decode"
+  ],
+  "author": "tranchiendang@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranchiendang/base64_util/issues"
+  },
+  "homepage": "https://github.com/tranchiendang/base64_util#readme"
+}
